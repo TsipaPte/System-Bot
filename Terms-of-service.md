@@ -15,18 +15,11 @@ We ask you to observe and respect our prohibitions, permissions and rules as the
 
 ## Responsibility
 
-### Our responsibility
-
-* We are responsible for the safety of our bot
-* We are responsible for the privacy and security of users
-* We are responsible for everything that is stipulated in the Discord API
-
-Note: we can't fit all our responsibility about our bot as there is a lot of this responsibility, so we added 3 point if you need to see everything we are responsible for, then you can go to the [Developer Policy](discord.com/developers/docs/policies-and-agreements/developer-policy) and/or [Developer Terms of Use](discord.com/developers/docs/policies-and-agreements/developer-terms-of-service) - there you will find all the information
-
 ### Your responsibility
 
 * You are responsible for the actions of your participants with the bot and with the bot commands
 * You are responsible for your account being hacked by scammers
+* You are responsible for everything that the bot does to the participants and the participants to the bot on your Discord server
 
 ## Be careful
 
